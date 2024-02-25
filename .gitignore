@@ -1,0 +1,51 @@
+# Visual Studio temporary files
+.vs/
+.vsCode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio code coverage files
+*.coverage
+*.coveragexml
+
+# Visual Studio test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet packages
+*.nupkg
+*.snupkg
+**/packages/
+
+# MSTest test results
+[Tt]est[Rr]esult*/
+
+# Resharper files
+_ReSharper*/
+*.resharper*
+*.DotSettings.user
+
+# GhostDoc plugin settings
+*.GhostDoc.xml
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.sln 
+# Build results of an ATL project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Roslyn analyzer cache
+*.Analyzer.xml
